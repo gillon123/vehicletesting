@@ -5,7 +5,7 @@ import time
 
 uri_path = 'sink'
 host = 'ns.tzi.org'
-port = 61616
+port = 49523
 verbose = False
 
 try:

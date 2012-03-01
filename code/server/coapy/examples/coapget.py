@@ -7,7 +7,7 @@ import socket
 
 uri_path = '.well-known/r'
 host = 'ns.tzi.org'
-port = 61616
+port = 49523
 verbose = False
 output_path = None
 block_option = None
